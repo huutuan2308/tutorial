@@ -1,2 +1,3 @@
 Đến cả con khỉ cũng hiểu được lệnh Git
 https://github.com/huutuan2308/tutorial.git
+pull: Lấy nội dung của remote repository
